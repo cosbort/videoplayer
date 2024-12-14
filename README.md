@@ -34,3 +34,7 @@ pip install -r requirements.txt
 - moviepy per la gestione video
 - PIL per la gestione delle immagini
 - pygame per l'audio
+
+## Licenza
+
+Questo progetto è distribuito con licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
